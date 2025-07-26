@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Charles Prestridge 👋
 
-<!--
-**CJSR05/CJSR05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year U.S. Navy Aviation veteran now transitioning my career into Network Engineering and Cybersecurity. My background in technical leadership and Quality Assurance has given me a rigorous, detail-oriented approach to troubleshooting complex systems under pressure.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building hands-on labs with Cisco Packet Tracer and Linux.
+- 🌱 I’m pursuing a B.S. in Network Engineering & Security and recently earned the Google Cybersecurity Professional Certificate.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charlesprestridge/) or CJSR05@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🔧 Skills Toolbox
+
+| Networking                                                                                                                              | Security & Tools                                                                                                                                | Operating Systems                                                                                                                       | Currently Learning                                                                                                                        |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Routing & Switching](https://img.shields.io/badge/Routing%20&%20Switching-000?style=for-the-badge)                                     | ![Cybersecurity Concepts](https://img.shields.io/badge/Cybersecurity%20Concepts-000?style=for-the-badge)                                         | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                     | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)                                                     |
+| ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)       | ![Risk Management](https://img.shields.io/badge/Risk%20Management-D22B2B?style=for-the-badge)                                                   | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                                 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)                                                       |
+| ![TCP/IP](https://img.shields.io/badge/TCP/IP-000?style=for-the-badge)                                                                  | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)                                                    |                                                                                                                                         |                                                                                                                                           |
+
+---
