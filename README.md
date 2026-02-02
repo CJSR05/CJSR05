@@ -5,7 +5,7 @@ I'm a 16-year U.S. Navy Aviation veteran transitioning into Network Engineering 
 Currently, I am bridging the gap between traditional networking (Cisco/Juniper) and modern virtualization (Proxmox/Docker) through enterprise-grade home lab projects.
 
 - 🔭 I’m currently managing **"The Triumvirate,"** a 3-node high-availability Proxmox cluster.
-- 🌱 I’m pursuing a **B.S. in Network Engineering & Security** (WGU) and hold the **Google Cybersecurity Professional Certificate**.
+- 🌱 I’m pursuing a **B.S. in Cloud and Network Engineering - Cisco** (WGU) and hold the ** CompTIA A+, Linux Professional Institute (LPI) Linux Essentials 010 certification, and Google Cybersecurity Professional Certificate**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charlesprestridge/) or CJSR05@gmail.com
 
 ---
